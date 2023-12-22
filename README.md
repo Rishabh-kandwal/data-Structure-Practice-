@@ -1,2 +1,2 @@
 # data-Structure-Practice-
-Author - Rishabh Kandwal
+Author - Rishabh Kandwal(local)
